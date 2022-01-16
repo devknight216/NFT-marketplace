@@ -1,0 +1,12 @@
+known-origin-contracts-next-gen.iml
+known-origin-contracts-v3.iml
+node_modules
+yarn-error.log
+.DS_Store
+
+cache
+artifacts
+coverage.json
+coverage
+.idea/
+.env
